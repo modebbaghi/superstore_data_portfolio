@@ -51,3 +51,8 @@ superstore_portfolio/
 *   **EDA Summary:** See `output/eda_console_output.txt`.
 *   **SQL Results:** See `output/sql_query_results.txt`.
 *   **Database:** The final database is located at `database/superstore.db`.
+
+# 🌟 Data Analyst Portfolio
+
+## 📊 Dashboard Projects
+- [Sales Performance Dashboard](dashboard_design.md) - Interactive Tableau dashboard with real-time insights
